@@ -1,0 +1,31 @@
+```
+└── 📁attendexx
+    └── 📁src
+        └── 📁app
+            └── 📁api
+                └── 📁attendance
+                    ├── route.js
+                └── 📁register
+                    ├── route.js
+            ├── favicon.ico
+            ├── globals.css
+            ├── layout.tsx
+            ├── page.tsx
+        └── 📁components
+            ├── CameraFeed.jsx
+            ├── Sidebar.jsx
+            ├── StatsCard.jsx
+        └── 📁lib
+            ├── db.js
+        └── 📁utils
+            ├── face-detection.js
+    ├── .gitignore
+    ├── eslint.config.mjs
+    ├── next-env.d.ts
+    ├── next.config.ts
+    ├── package-lock.json
+    ├── package.json
+    ├── postcss.config.mjs
+    ├── README.md
+    └── tsconfig.json
+```
